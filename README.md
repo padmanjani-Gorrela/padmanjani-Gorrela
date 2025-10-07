@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Padmanjani Gorrela</h1>
-<h3 align="center">Frontend Developer | IT Student | AI Enthusiast</h3>
+<h3 align="center">FullStack(MERN) | IT | AI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:padmanjanigorrela55@gmail.com">
@@ -18,7 +18,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Pursuing B.Tech in Information Technology at **Vishnu Institute of Technology** (2023–2027)
-- 🏆 Winner of **TechSprout’25 Hackathon** & **LG Life’s Good Scholar**
+- 🏆 Winner of **TechSprout’25 Hackathon** & **LG Life’s Good Scholar** & **Amazon Future Engineer'24**
 - 🛠️ Passionate about building meaningful web products and exploring AI & autonomous agents
 - 🌱 Currently diving deeper into **DSA in Java** and **AI-powered applications**
 
@@ -28,7 +28,7 @@
 
 | Frontend       | Backend        | Database       | Tools & Other     |
 |----------------|----------------|----------------|-------------------|
-| React.js, Vite | Node.js, Express.js | MongoDB, SQL  | Git, Figma, Firebase, RAG, Prompt Engineering |
+| React.js, Vite | Node.js, Express.js | MongoDB, SQL  | Git,Firebase, Prompt Engineering |
 
 ---
 
