@@ -61,7 +61,10 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/H2%20Database-Embedded-lightgrey?style=for-the-badge&logo=java" />
 </p>
 
 ### 🧰 Tools
