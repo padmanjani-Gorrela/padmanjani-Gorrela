@@ -1,20 +1,33 @@
-<h1 align="center">Hi 👋, I'm Sri Padmanjani Gorrela</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | DSA Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm Sri Padmanjani Gorrela
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/SpringBoot-Framework-brightgreen?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-blue?style=for-the-badge" />
+</p>
+
+---
 
 <p align="center">
   <a href="mailto:padmanjanigorrela55@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sri-padmanjani-gorrela55">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/padmanjani-Gorrela">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Profile-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=padmanjani-Gorrela&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=padmanjani-Gorrela&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
