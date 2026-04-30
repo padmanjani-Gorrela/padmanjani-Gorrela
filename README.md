@@ -3,13 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/SpringBoot-Framework-brightgreen?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-blue?style=for-the-badge" />
+  Backend Developer | Java | Spring Boot | DSA
 </p>
 
 ---
@@ -22,87 +16,70 @@
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/padmanjani-Gorrela">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Profile-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=padmanjani-Gorrela&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech IT @ **Vishnu Institute of Technology** (2023–2027)  
-- 💻 Backend Developer specializing in **Java & Spring Boot**  
-- 📊 Strong foundation in **Data Structures & Algorithms**  
-- ⚡ Built scalable backend systems with **REST APIs & database optimization**  
-- 🚀 Improved API performance by up to **40%**  
+- 🎓 B.Tech IT @ Vishnu Institute of Technology (2023–2027)  
+- 💻 Backend Developer focused on **Java & Spring Boot**  
+- ⚙️ Built REST APIs with **Spring JPA & Spring Security**  
+- 📊 Improved API performance by up to **40%** through query optimization  
+- 🧠 Solved **300+ DSA problems**, actively improving problem-solving skills  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
-</p>
+**Languages:**  
+Java  
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
+**Backend:**  
+Spring Boot, Spring JPA, Spring Security, REST APIs, Lombok  
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+**Frontend:**  
+HTML, CSS  
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/H2%20Database-Embedded-lightgrey?style=for-the-badge&logo=java" />
-</p>
+**Databases:**  
+MySQL  
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,maven,postman" />
-</p>
+**Tools:**  
+Git, Maven, Postman, Swagger, Docker  
 
 ---
 
 ## 📌 Projects
 
-### 🔹 Job Portal Backend System
-- Built scalable REST APIs supporting multiple user roles  
-- Implemented JWT authentication & role-based access  
-- Optimized database queries → ⚡ **35% faster response time**  
+### 🔹 HireLyft – Job Portal Backend
+- Built scalable backend with role-based access using Spring Boot  
+- Implemented JWT authentication and layered architecture  
+- Migrated from H2 to MySQL using Docker for production-like setup  
+- Reduced API response time from **~500ms to ~300ms (~40%)** using query optimization  
 
 ---
 
 ### 🔹 E-Commerce Backend System
-- Developed APIs for product, cart, and order management  
-- Designed normalized database schema  
-- Reduced latency → ⚡ **40% improvement**  
+- Developed REST APIs for product, cart, and order workflows  
+- Implemented pagination and optimized schema design  
+- Reduced product fetch latency from **~420ms to ~290ms (~30%)**  
 
 ---
 
-### 🔹 Contact Management REST API
-- Built CRUD APIs with layered architecture  
-- Implemented DTO pattern & exception handling  
-- Documented APIs using Swagger  
+### 🔹 Task Manager API
+- Built CRUD-based REST APIs using Spring Boot and MySQL  
+- Secured endpoints using JWT authentication  
+- Tested APIs using Postman  
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 Amazon Future Engineer 2024 (Selected)  
-- 🏆 Winner – TechSprout 2025 Hackathon  
+- 🏅 Amazon Future Engineer 2024 – Top 500 nationwide  
+- 🏆 Winner – TechSprout Hackathon 2025  
 - 📈 Solved 300+ DSA problems  
-- 🥇 Top 80 Rank – GeeksforGeeks  
 
 ---
 
@@ -110,7 +87,6 @@
 
 - ✔️ Software Engineer Intern Certification – HackerRank  
 - ✔️ Java Backend Development – Udemy  
-- ✔️ NPTEL (Silver Elite) – AI  
 
 ---
 
@@ -126,7 +102,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect
 
 - 📧 Email: padmanjanigorrela55@gmail.com  
 - 🔗 LinkedIn: https://linkedin.com/in/sri-padmanjani-gorrela55  
@@ -135,5 +111,5 @@
 ---
 
 <p align="center">
-  🚀 Always building. Always learning. Always improving.
+  Focused on building scalable backend systems 🚀
 </p>
