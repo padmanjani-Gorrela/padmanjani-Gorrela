@@ -35,10 +35,12 @@
 
 ## 💼 Experience
 
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/amazon/FF9900" 
-       alt="Amazon Logo" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" 
+       alt="Amazon" height="45"/>
 </p>
+
 
 ### Software Development Engineer Intern — Amazon
 **Global Logistics | July 2026 – Present**
