@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Hi 👋, I'm Sri Padmanjani Gorrela
 </h1>
@@ -29,6 +30,22 @@
 - ⚙️ Built REST APIs with **Spring JPA & Spring Security**  
 - 📊 Improved API performance by up to **40%** through query optimization  
 - 🧠 Solved **300+ DSA problems**, actively improving problem-solving skills  
+
+---
+
+## 💼 Experience
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/amazon/FF9900" 
+       alt="Amazon Logo" width="45" height="45"/>
+</p>
+
+### Software Development Engineer Intern — Amazon
+**Global Logistics | July 2026 – Present**
+
+- Working on engineering solutions supporting global logistics workflows.
+- Navigating production codebases and understanding existing service architectures.
+- Contributing to code quality through testing, code reviews, and maintainable implementations.
 
 ---
 
