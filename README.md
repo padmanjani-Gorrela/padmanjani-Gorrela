@@ -36,10 +36,11 @@
 ## 💼 Experience
 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" 
-       alt="Amazon" height="45"/>
-</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+     alt="Amazon Logo"
+     width="120"/>
+
 
 
 ### Software Development Engineer Intern — Amazon
